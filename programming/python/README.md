@@ -12,7 +12,7 @@ This folder contains all certificates, courses, and achievements I have complete
 | Developing Ethical Hacking Tools With Python | Cybrary | Feb 12, 2025 2:03AM UTC | [📄 PDF](cybrary-cert-developing-ethical-hacking-tools-with-python.pdf) |
 | Python Basics | Cybrary | Jul 16, 2024 6:59AM UTC | [📄 PDF](cybrary-cert-python-basics.pdf) |
 | Introduction to Python | sololearn | Aug 09, 2024 | ![](IMG_20250202_233420_530.jpg) |
-| Learn Python from a University Professor | Udemy | *[Add date]* | ![](learn python from a univercity professor.jpg) |
+| Learn Python from a University Professor | Udemy | *[Add date]* | ![](learn_python_from_a_univercity_professor.jpg) |
 | Learn Python With 20+ Real World Projects | Udemy | *[Add date]* | ![](learn_python_with_20+_real_world_projects.jpg) |
 | Learn to Create AI Assistant With Python | Udemy | *[Add date]* | ![](learns_create_ai_ass_with_python.jpg) |
 | OOP Design Patterns in Python | Udemy | *[Add date]* | ![](oop_design_patterns_in_python.jpg) |
