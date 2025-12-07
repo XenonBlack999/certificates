@@ -78,7 +78,7 @@ This repository serves as:
 ## 🤝 Connect With Me
 
 -   **GitHub:** https://github.com/XenonBlack999\
--   **Telegram:** @ByteBazaarShop\
+-   **Telegram:** @Simon_ghost_riley_009\
 -   **Portfolio:** *Coming soon*
 
 ------------------------------------------------------------------------
