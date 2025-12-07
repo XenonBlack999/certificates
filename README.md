@@ -18,8 +18,13 @@ I created this space to:
 Each certificate is stored in its own category folder with a dedicated
 `README.md`.
 
-certificates/ ├── programming/ │ ├── python/ │ ├── javascript/ │ ├──
-web/ │ └── ... ├── cybersecurity/ ├── ai-ml/ ├── business/ ├── design/
+certificates/ 
+├── programming/
+│ ├── python/
+├── cybersecurity/
+├── ai-ml/ 
+├── business/ 
+├── design/
 └── others/
 
 ------------------------------------------------------------------------
