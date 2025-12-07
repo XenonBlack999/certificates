@@ -21,7 +21,7 @@ This folder contains all certificates, courses, and achievements I have complete
 | Python Development & Programming Fundamentals | Udemy | *[Add date]* | ![](python_develpment_and_python_programming_fundamentals.jpg) |
 | Python Ethical Hacking – Pentest Scripting Basics | Udemy | *[Add date]* | ![](python_ethical_hacking_pentest_for_hackers_scripting_bascis.jpg) |
 | Python Mastery – From Novice to Ninja | Udemy | *[Add date]* | ![](python_masteery_from_novice_to_ninja.jpg) |
-| Python OOP | Udemy | *[Add date]* | ![](python oop.jpg) |
+| Python OOP | Udemy | *[Add date]* | ![](python_oop.jpg) |
 | Social Media Bot With Python | Udemy | *[Add date]* | ![](social_media_bot_with_python.jpg) |
 
 ---
