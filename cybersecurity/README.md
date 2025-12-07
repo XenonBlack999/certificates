@@ -9,29 +9,29 @@ This folder (`certificates/cybersecurity/`) contains all my certificates related
 
 | Certificate | Provider / Notes | Date | Preview / File |
 |---|---|---|---|
-| Antivirus Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-antivirus-basics.pdf) |
-| Asymmetric Cryptography | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-asymmetric-cryptography.pdf) |
-| Careers in Cybersecurity | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-careers-in-cybersecurity.pdf) |
-| Cryptographic Hash Functions | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-cryptographic-hash-functions.pdf) |
-| Cryptography Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-cryptography-basics.pdf) |
-| Digital Forensics Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-digital-forensics-basics.pdf) |
-| Firewall Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-firewall-basics.pdf) |
-| IP Addressing Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-ip-addressing-basics.pdf) |
-| Linux CLI Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-linux-cli-basics.pdf) |
-| Linux File-System Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-linux-file-system-basics.pdf) |
-| Log Analysis Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-log-analysis-basics.pdf) |
-| Mobile / IoT & OT Hacking | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-mobile-platform-iot-and-ot-hacking.pdf) |
-| Network Device Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-network-device-basics.pdf) |
-| Network Fundamentals v2 | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-network-fundamentals-v2.pdf) |
-| Network Reference Models | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-network-reference-models.pdf) |
-| PowerShell Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-powershell-basics.pdf) |
-| Security Engineering & Cyber Risk | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-security-engineering-and-cyber-risk.pdf) |
-| Symmetric Cryptography | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-symmetric-cryptography.pdf) |
-| Web Application Hacking | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-web-application-hacking.pdf) |
-| Windows CLI Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-windows-cli-basics.pdf) |
+| Antivirus Basics | Cybrary | Jul 16, 2024 9:24AM UTC| [📄 PDF](cybrary-cert-antivirus-basics.pdf) |
+| Asymmetric Cryptography | Cybrary | Jul 15, 2024 4:48AM UTC | [📄 PDF](cybrary-cert-asymmetric-cryptography.pdf) |
+| Careers in Cybersecurity | Cybrary | Feb 13, 2025 1:08AM UTC | [📄 PDF](cybrary-cert-careers-in-cybersecurity.pdf) |
+| Cryptographic Hash Functions | Cybrary | Jul 16, 2024 5:40AM UTC | [📄 PDF](cybrary-cert-cryptographic-hash-functions.pdf) |
+| Cryptography Basics | Cybrary | Jul 8, 2024 12:24PM UTC | [📄 PDF](cybrary-cert-cryptography-basics.pdf) |
+| Digital Forensics Basics | Cybrary | Jun 10, 2025 6:13AM UTC | [📄 PDF](cybrary-cert-digital-forensics-basics.pdf) |
+| Firewall Basics | Cybrary | Feb 6, 2025 4:18AM UTC | [📄 PDF](cybrary-cert-firewall-basics.pdf) |
+| IP Addressing Basics | Cybrary | Jul 8, 2024 3:36AM UTC | [📄 PDF](cybrary-cert-ip-addressing-basics.pdf) |
+| Linux CLI Basics | Cybrary | Jun 21, 2024 5:57AM UTC | [📄 PDF](cybrary-cert-linux-cli-basics.pdf) |
+| Linux File-System Basics | Cybrary | Jul 8, 2024 12:05PM UTC | [📄 PDF](cybrary-cert-linux-file-system-basics.pdf) |
+| Log Analysis Basics | Cybrary | Aug 6, 2025 8:19AM UTC | [📄 PDF](cybrary-cert-log-analysis-basics.pdf) |
+| Mobile / IoT & OT Hacking | Cybrary | Aug 5, 2024 1:47AM UTC | [📄 PDF](cybrary-cert-mobile-platform-iot-and-ot-hacking.pdf) |
+| Network Device Basics | Cybrary | Jul 8, 2024 10:40AM UTC | [📄 PDF](cybrary-cert-network-device-basics.pdf) |
+| Network Fundamentals v2 | Cybrary | Feb 13, 2025 6:47AM UTC | [📄 PDF](cybrary-cert-network-fundamentals-v2.pdf) |
+| Network Reference Models | Cybrary | Jul 8, 2024 9:47AM UTC | [📄 PDF](cybrary-cert-network-reference-models.pdf) |
+| PowerShell Basics | Cybrary | Feb 8, 2025 11:32AM UTC| [📄 PDF](cybrary-cert-powershell-basics.pdf) |
+| Security Engineering & Cyber Risk | Cybrary | *Feb 6, 2025 3:25AM UTC | [📄 PDF](cybrary-cert-security-engineering-and-cyber-risk.pdf) |
+| Symmetric Cryptography | Cybrary | Jul 15, 2024 2:52AM UTC | [📄 PDF](cybrary-cert-symmetric-cryptography.pdf) |
+| Web Application Hacking | Cybrary | Sep 1, 2024 2:35AM UTC | [📄 PDF](cybrary-cert-web-application-hacking.pdf) |
+| Windows CLI Basics | Cybrary | Jul 16, 2024 7:18AM UTC | [📄 PDF](cybrary-cert-windows-cli-basics.pdf) |
 | BASCS50T Certificate Photo | Burma Academy |Sept5,2024  | ![](BA_BASCS50T.jpg) |
-| IT Support Certificate | — | | ![](IT_support.jpg) |
-| Linux for DevOps / Developers Certificate | — | *[Add date]* | ![](linux_for_devops_enginners_and_developmers.jpg) |
+| IT Support Certificate | UDEMY | Sept 21, 2025| ![](IT_support.jpg) |
+| Linux for DevOps / Developers Certificate | UDEMY | Aug 27,2025 | ![](linux_for_devops_enginners_and_developmers.jpg) |
 
 ---
 
