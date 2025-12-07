@@ -83,6 +83,27 @@ This repository serves as:
 
 ------------------------------------------------------------------------
 
+## 📁 Quick Access Links
+
+### 🐍 Programming
+[➡️ View Programming Certificates](./programming/README.md)
+
+### 🔐 Cybersecurity
+[➡️ View Cybersecurity Certificates](./cybersecurity/README.md)
+
+### 🤖 AI & Machine Learning
+[➡️ View AI/ML Certificates](./ai-ml/README.md)
+
+### 💼 Business
+[➡️ View Business Certificates](./business/README.md)
+
+### 🎨 Design
+[➡️ View Design Certificates](./design/README.md)
+
+### 📦 Others
+[➡️ View Other Certificates](./others/README.md)
+
+
 ## 📌 Additional Notes
 
 Some certificates include:
