@@ -9,20 +9,20 @@ This folder contains all certificates, courses, and achievements I have complete
 
 | Certificate | Provider | Date | Preview / File |
 |------------|----------|------|----------------|
-| Developing Ethical Hacking Tools With Python | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-developing-ethical-hacking-tools-with-python.pdf) |
-| Python Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-python-basics.pdf) |
-| Certificate Photo | — | *[Add date]* | ![](IMG_20250202_233420_530.jpg) |
-| Learn Python from a University Professor | Online | *[Add date]* | ![](learn python from a univercity professor.jpg) |
-| Learn Python With 20+ Real World Projects | Online | *[Add date]* | ![](learn_python_with_20+_real_world_projects.jpg) |
-| Learn to Create AI Assistant With Python | Online | *[Add date]* | ![](learns_create_ai_ass_with_python.jpg) |
-| OOP Design Patterns in Python | Online | *[Add date]* | ![](oop_design_patterns_in_python.jpg) |
-| Python Development and Data Science | Online | *[Add date]* | ![](python_development_and_data_science.jpg) |
-| Python Development Essentials | Online | *[Add date]* | ![](python development Essentials.jpg) |
-| Python Development & Programming Fundamentals | Online | *[Add date]* | ![](python_develpment_and_python_programming_fundamentals.jpg) |
-| Python Ethical Hacking – Pentest Scripting Basics | Online | *[Add date]* | ![](python_ethical_hacking_pentest_for_hackers_scripting_bascis.jpg) |
-| Python Mastery – From Novice to Ninja | Online | *[Add date]* | ![](python_masteery_from_novice_to_ninja.jpg) |
-| Python OOP | Online | *[Add date]* | ![](python oop.jpg) |
-| Social Media Bot With Python | Online | *[Add date]* | ![](social_media_bot_with_python.jpg) |
+| Developing Ethical Hacking Tools With Python | Cybrary | Feb 12, 2025 2:03AM UTC | [📄 PDF](cybrary-cert-developing-ethical-hacking-tools-with-python.pdf) |
+| Python Basics | Cybrary | Jul 16, 2024 6:59AM UTC | [📄 PDF](cybrary-cert-python-basics.pdf) |
+| Introduction to Python | sololearn | Aug 09, 2024 | ![](IMG_20250202_233420_530.jpg) |
+| Learn Python from a University Professor | Udemy | *[Add date]* | ![](learn python from a univercity professor.jpg) |
+| Learn Python With 20+ Real World Projects | Udemy | *[Add date]* | ![](learn_python_with_20+_real_world_projects.jpg) |
+| Learn to Create AI Assistant With Python | Udemy | *[Add date]* | ![](learns_create_ai_ass_with_python.jpg) |
+| OOP Design Patterns in Python | Udemy | *[Add date]* | ![](oop_design_patterns_in_python.jpg) |
+| Python Development and Data Science | Udemy | *[Add date]* | ![](python_development_and_data_science.jpg) |
+| Python Development Essentials | Udemy | *[Add date]* | ![](python development Essentials.jpg) |
+| Python Development & Programming Fundamentals | Udemy | *[Add date]* | ![](python_develpment_and_python_programming_fundamentals.jpg) |
+| Python Ethical Hacking – Pentest Scripting Basics | Udemy | *[Add date]* | ![](python_ethical_hacking_pentest_for_hackers_scripting_bascis.jpg) |
+| Python Mastery – From Novice to Ninja | Udemy | *[Add date]* | ![](python_masteery_from_novice_to_ninja.jpg) |
+| Python OOP | Udemy | *[Add date]* | ![](python oop.jpg) |
+| Social Media Bot With Python | Udemy | *[Add date]* | ![](social_media_bot_with_python.jpg) |
 
 ---
 
