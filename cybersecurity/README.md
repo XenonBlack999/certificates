@@ -25,7 +25,7 @@ This folder (`certificates/cybersecurity/`) contains all my certificates related
 | Network Fundamentals v2 | Cybrary | Feb 13, 2025 6:47AM UTC | [📄 PDF](cybrary-cert-network-fundamentals-v2.pdf) |
 | Network Reference Models | Cybrary | Jul 8, 2024 9:47AM UTC | [📄 PDF](cybrary-cert-network-reference-models.pdf) |
 | PowerShell Basics | Cybrary | Feb 8, 2025 11:32AM UTC| [📄 PDF](cybrary-cert-powershell-basics.pdf) |
-| Security Engineering & Cyber Risk | Cybrary | *Feb 6, 2025 3:25AM UTC | [📄 PDF](cybrary-cert-security-engineering-and-cyber-risk.pdf) |
+| Security Engineering & Cyber Risk | Cybrary | Feb 6, 2025 3:25AM UTC | [📄 PDF](cybrary-cert-security-engineering-and-cyber-risk.pdf) |
 | Symmetric Cryptography | Cybrary | Jul 15, 2024 2:52AM UTC | [📄 PDF](cybrary-cert-symmetric-cryptography.pdf) |
 | Web Application Hacking | Cybrary | Sep 1, 2024 2:35AM UTC | [📄 PDF](cybrary-cert-web-application-hacking.pdf) |
 | Windows CLI Basics | Cybrary | Jul 16, 2024 7:18AM UTC | [📄 PDF](cybrary-cert-windows-cli-basics.pdf) |
