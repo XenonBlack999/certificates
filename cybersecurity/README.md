@@ -29,7 +29,7 @@ This folder (`certificates/cybersecurity/`) contains all my certificates related
 | Symmetric Cryptography | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-symmetric-cryptography.pdf) |
 | Web Application Hacking | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-web-application-hacking.pdf) |
 | Windows CLI Basics | Cybrary | *[Add date]* | [📄 PDF](cybrary-cert-windows-cli-basics.pdf) |
-| BASCS50T Certificate Photo | — | *[Add date]* | ![](BA BASCS50T.jpg) |
+| BASCS50T Certificate Photo | — | *[Add date]* | ![](BA_BASCS50T.jpg) |
 | IT Support Certificate | — | *[Add date]* | ![](IT_support.jpg) |
 | Linux for DevOps / Developers Certificate | — | *[Add date]* | ![](linux_for_devops_enginners_and_developmers.jpg) |
 
