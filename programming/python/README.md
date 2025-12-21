@@ -23,7 +23,7 @@ This folder contains all certificates, courses, and achievements I have complete
 | Python Mastery – From Novice to Ninja | Udemy | Dec 1, 2025 | ![](python_masteery_from_novice_to_ninja.jpg) |
 | Python OOP: A complete Course in Object Oriented Programming | Udemy | March 23, 2025 | ![](python_oop.jpg) |
 | Social Media Bot With Python | Udemy | April 19,2025 | ![](social_media_bot_with_python.jpg) |
-| Diploma in Python Programming | NATIONAL CYBER CITY COMPANY LIMITED | Sunday, December 21 | ![](ThuAungLynn_Python.pdf) |
+| Diploma in Python Programming | NATIONAL CYBER CITY COMPANY LIMITED | Sunday, December 21 | ![]( ThuAungLynn_Python.pdf ) |
 
 ---
 
